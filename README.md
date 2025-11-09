@@ -14,7 +14,7 @@ This is the logical topology of the implemented network, showing all devices, VL
 
 ---
 
-### 🧠 Core Skills & Technologies
+### Core Skills & Technologies
 
 This lab demonstrates proficiency in the following key networking areas:
 
